@@ -1,0 +1,9 @@
+{
+  "name": "watch-knowledge-game",
+  "version": "0.1.0",
+  "description": "A collection of independent mini-games that build genuine watch knowledge.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
